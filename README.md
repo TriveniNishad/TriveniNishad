@@ -1,11 +1,11 @@
 - 👋👋 Hi, I’m @TriveniNishad  
-👀 I’m passionate about learning how code shapes the world — especially through Python.  
-🌱 Currently exploring Python programming, automation, and problem-solving.  
-💬 Always open to connect, collaborate, and grow with like-minded developers.  
-💞️ Looking to collaborate on beginner-friendly open source projects and Python-based ideas.  
-📫 Reach me at:triveni.nishad8055@gmail.com  
-😄 Pronouns: she/her   
-⚡ Fun fact: I started coding with zero background — now I can’t stop!  
+- 👀 I’m passionate about learning how code shapes the world — especially through Python.  
+- 🌱 Currently exploring Python programming, automation, and problem-solving.  
+- 💬 Always open to connect, collaborate, and grow with like-minded developers.  
+- 💞️ Looking to collaborate on beginner-friendly open source projects and Python-based ideas.  
+- 📫 Reach me at:triveni.nishad8055@gmail.com  
+- 😄 Pronouns: she/her   
+-⚡ Fun fact: I started coding with zero background — now I can’t stop!  
 
 
 <!---
